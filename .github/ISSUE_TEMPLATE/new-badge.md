@@ -3,7 +3,7 @@ name: New badge
 about: Suggest a badge for us to add
 title: Badge/platform name [NEW]
 labels: enhancement
-assignees: intergrav
+assignees: JaegerwaldDev
 
 ---
 
