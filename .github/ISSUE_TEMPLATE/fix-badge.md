@@ -3,7 +3,7 @@ name: Fix badge
 about: Suggest changes or fixes to a badge
 title: Name of badge, and fix summary [FIX]
 labels: bug
-assignees: intergrav
+assignees: JaegerwaldDev
 
 ---
 
