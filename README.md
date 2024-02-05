@@ -1,5 +1,5 @@
 > [!WARNING]
-> We are not the creators of the original devins-badges repository, this is a fork! The owner of devins-badges will not add any more badge types to the original repository, but if you want to add new types to this repository, feel free to do so! Just don't annoy the original creator, okay?
+> We are not the creators of the original devins-badges repository - this is a fork! The owner of devins-badges will not add any more badge types to the original repository, but if you want to add new types to this repository, feel free to do so! Just don't annoy the original creator, okay?
 
 ---
 
